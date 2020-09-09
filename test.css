@@ -1,0 +1,151 @@
+body{
+   background: #e0ece4;
+}
+@font-face{
+    font-family: montserrat;
+    src: url(montserrat.ttf);
+}
+table{
+    font-family: montserrat;
+}
+
+table .tshirt1 {
+        position: relative;
+    background: url(images/shirt1.png);
+    background-size: 300px 300px;
+
+
+    }
+    .tshirt1 img{
+         opacity: 0;
+    }
+    .tshirt1:hover img{
+       opacity: 1;
+    background: #99b898;
+        
+    }
+
+
+table .tshirt2 {
+    position: relative;
+    background: url(images/shirt3.png);
+    background-size: 300px 300px;
+
+    }
+    .tshirt2 img{
+        opacity: 0;
+    }
+    .tshirt2:hover img{
+        opacity: 1;
+    background: #99b898;
+    }
+
+table .tshirt3 {
+        position: relative;
+        background: url(images/shirt6.png);
+        background-size: 300px 300px;
+ }
+.tshirt3 img{
+    opacity: 0;
+}
+
+.tshirt3:hover img{
+    opacity: 1;
+    background: #99b898;
+}
+
+
+table .tshirt4 {
+        position: relative;
+        background: url(images/shirt13.png);
+        background-size: 300px 300px;
+ }
+.tshirt4 img{
+    opacity: 0;
+}
+
+.tshirt4:hover img{
+    opacity: 1;
+    background: #99b898;
+}
+
+table .pin {
+        position: relative;
+        background: url(images/pin1.png);
+        background-size: 300px 300px;
+ }
+.pin img{
+    opacity: 0;
+}
+
+.pin:hover img{
+    opacity: 1;
+    background: #fff;
+}
+
+table .potholder {
+        position: relative;
+        background: url(images/potholder1.png);
+        background-size: 300px 300px;
+ }
+.potholder img{
+    opacity: 0;
+}
+
+.potholder:hover img{
+    opacity: 1;
+    background: #fff;
+}
+table .potholder {
+        position: relative;
+        background: url(images/potholder1.png);
+        background-size: 300px 300px;
+ }
+.potholder img{
+    opacity: 0;
+}
+
+.potholder:hover img{
+    opacity: 1;
+    background: #fff;
+}
+
+table .shirt5 {
+        position: relative;
+        background: url(images/shirt11.png);
+        background-size: 300px 300px;
+ }
+.shirt5 img{
+    opacity: 0;
+}
+
+.shirt5:hover img{
+    opacity: 1;
+    background: #99b898;
+}
+table .stuffedtoy {
+        position: relative;
+        background: url(images/stuffedtoy4.jpg);
+        background-size: 300px 300px;
+ }
+.stuffedtoy img{
+    opacity: 0;
+}
+
+.stuffedtoy:hover img{
+    opacity: 1;
+    background: #fff;
+}
+table .st {
+        position: relative;
+        background: url(images/stuffedtoy2.jpg);
+        background-size: 300px 300px;
+ }
+.st img{
+    opacity: 0;
+}
+
+.st:hover img{
+    opacity: 1;
+    background: #fff;
+}

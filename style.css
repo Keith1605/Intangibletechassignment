@@ -1,0 +1,92 @@
+body{
+	
+	background: linear-gradient(#111d5e, #2BB2BB, #00bcd4,#7FDBDA,#99F3BD,#28DF99);
+	background-repeat: repeat;
+	height: 1800px;
+}
+
+.header a {
+  border-radius: 10px;
+  color: white;
+  float: left;
+  font-family: Berlin sans fb;
+  font-size: 20px; 
+  line-height: 40px;
+  text-decoration: none;
+  }
+
+
+.header-right a:hover, a:active{
+	font-family: Cooper black;
+}
+
+.header-right{
+	float: right;
+	padding: 20px;
+	
+}
+
+.header-right a:hover {
+  background-color: #00bcd4;
+  color: black;
+}
+
+.video{
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+video{
+	object-fit: fill;
+}
+
+.logo2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text1{
+	color: Black;
+	font-family: Lucida console;
+	font-size: 20px;
+	text-align: center;
+}
+
+.characters{
+margin-left: 18.5%;
+
+
+	
+}
+
+.characters img{
+	transition: 1s;
+	opacity: 30%;
+}
+.characters img:hover{
+			float: center;
+  			transform: scale(1.5); 
+  			opacity: 100%;
+			
+		}
+
+.logos{
+	float: right;
+	padding: 50px;
+}
+
+.top{ 
+	border: none;
+	border-radius: 10px; 
+	bottom: 10px; 
+	outline: none;
+	padding: 15px; 
+ 	position: fixed;
+  	right: 10px; 
+  	z-index: 99; 
+  	 
+  	 
+  	
+  	
+  		}

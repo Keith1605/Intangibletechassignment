@@ -1,0 +1,27 @@
+body{
+	background-image: linear-gradient(#0066ff,#99ffcc);
+	background-repeat: no-repeat;
+	height: 1000px;
+}
+
+p{
+	font-family: Lucida console;
+	font-size: 25px;
+	text-align: center;
+}
+
+h2{
+	
+	background: linear-gradient(to right,#e2f0cb,#b5ead7,#c7ceea);
+	border-radius: 10px;
+	border-style: solid;
+	color: black;
+	text-align: center;
+	
+}
+
+.logo2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

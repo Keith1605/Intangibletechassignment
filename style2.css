@@ -1,0 +1,17 @@
+
+body{
+	background: linear-gradient(#bdd0c4, #9ab7d3);
+}
+
+.shirt1{
+	position: relative;
+    display: inline-block;
+}
+
+.shirt2{
+	display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+}
